@@ -26,4 +26,3 @@ Quantified Self is a web based platform form users to track their habits and wel
 - `feedback.txt` contains the output of feedback forms given by users.
 - `multiple.csv` contains necessary data files for tracking.
 - `requirements.txt` contains the necessary modules used in application to run the web-app.# quantifiedSelf
-# quantifiedSelf
