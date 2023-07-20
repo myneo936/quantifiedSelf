@@ -7,7 +7,6 @@ Quantified Self is a web based platform form users to track their habits and wel
     `pip install --upgrade poetry`
 - Click on `main.py` and click button run
 - Sample project is at https://replit.com/@neo936/qself
-- The web app will is availabe at https://qself.neo936.repl.co
 
 ## To run on your local device
 - Download all the files in one directory.
